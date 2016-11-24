@@ -1,5 +1,5 @@
 <Response>
-<Dial callerId="16418915322712">
+<Dial>
     <User>sip:jlprado161117175135@phone.plivo.com</User>
 </Dial>
 </Response>
